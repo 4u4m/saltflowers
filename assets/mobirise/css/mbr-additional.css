@@ -1645,7 +1645,7 @@ body {
 .cid-qLRVjUfqMU .menu-top {
   text-align: center;
   width: 100%;
-  background-color: #479ac2;
+  background-color: #2f95e9;
   padding: .5rem 0;
 }
 .cid-qLRVjUfqMU .full-link {
@@ -1775,6 +1775,68 @@ body {
   }
   .cid-qN3M8SDmeo .mbr-timeline-date {
     padding-bottom: 0 !important;
+  }
+}
+.cid-qN3NN1Knn3 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
+.cid-qN3NN1Knn3 .row {
+  justify-content: flex-start;
+}
+.cid-qN3NN1Knn3 .row {
+  justify-content: flex-end;
+}
+.cid-qN3NN1Knn3 .form-container {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  display: inline-block;
+  padding: 3rem;
+  position: relative;
+}
+.cid-qN3NN1Knn3 .mbr-section-title {
+  margin-left: -4px;
+}
+.cid-qN3NN1Knn3 .media-container-column {
+  width: 100%;
+}
+.cid-qN3NN1Knn3 .form {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+.cid-qN3NN1Knn3 .mbr-section-btn a {
+  white-space: nowrap;
+}
+.cid-qN3NN1Knn3 .form-group {
+  position: relative;
+  margin: 0;
+  width: 100%;
+}
+.cid-qN3NN1Knn3 .form-group .form-control {
+  padding-left: 1rem;
+}
+@media (min-width: 1600px) {
+  .cid-qN3NN1Knn3 .my-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (min-width: 992px) {
+  .cid-qN3NN1Knn3 .form-container {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-qN3NN1Knn3 .mbr-section-btn {
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+  }
+  .cid-qN3NN1Knn3 .form-group {
+    flex-direction: row;
   }
 }
 .cid-qN3McJkRhl {
