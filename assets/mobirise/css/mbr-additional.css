@@ -1740,7 +1740,7 @@ body {
   line-height: 30px;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #fe525b;
+  border: 2px solid #1ba1e2;
   font-size: 30px;
   display: inline-block;
   top: 29px;
@@ -1753,7 +1753,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #fe525b;
+  background-color: #1ba1e2;
   left: calc(25% - 1px);
   height: calc(100% + 2rem);
 }
@@ -1763,7 +1763,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #fe525b;
+  background-color: #1ba1e2;
   left: calc(25% - 1px);
   height: 100%;
 }
